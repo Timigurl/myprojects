@@ -1,0 +1,1 @@
+rm -rf hp date day fan
